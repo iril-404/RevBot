@@ -1,0 +1,6 @@
+python-dotenv
+requests
+python-certifi-win32
+openai
+psycopg2
+Flask
