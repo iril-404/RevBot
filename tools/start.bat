@@ -1,0 +1,1 @@
+python -m waitress --host=0.0.0.0 --port=5000 webhook:pr_hook_app.app
